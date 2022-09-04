@@ -2,6 +2,7 @@
 
 Espero que esse repositório seja útil, se divirta!
 ---
+---
 # Robô de Sumô
 > Robô em Arduino programado para lutar em uma arena redonda branca, com os limites pintados de preto. 
 ## O esquema eletrônico encontra-se anexado como "robot.png"

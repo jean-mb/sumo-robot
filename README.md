@@ -1,10 +1,9 @@
-
-![robot](https://user-images.githubusercontent.com/79486623/188323944-59569501-31c2-4434-bc8d-61aac61281ff.jpeg)
-
-
 > If you're not a Portuguese reader, you can skip to the bottom of the page and you'll find an English version of this document! Hope it helps!
 
 # Robô de Sumô
+
+![robot](https://user-images.githubusercontent.com/79486623/188323944-59569501-31c2-4434-bc8d-61aac61281ff.jpeg)
+
 > Robô em Arduino programado para lutar em uma arena redonda branca, com os limites pintados de preto. 
 - Robô lutando: https://www.linkedin.com/posts/jeanmoschen_robotica-ugcPost-6947741716468617216-Df8P?utm_source=share&utm_medium=member_desktop
 ## Componentes

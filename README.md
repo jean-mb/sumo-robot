@@ -26,7 +26,11 @@ Espero que esse repositório seja útil, se divirta!
 
 ### Use a ponte H apenas para controlar a direção das rodas
  - Pois o Arduino, mesmo ligado em baterias potentes, não irá fornecer muita força para os motores ligados na ponte H. 
- - É possível ligar paralelamente: Baterias -> Arduino / Baterias -> Ponte H
+ - É possível ligar paralelamente: 
+ > Batteries -> Arduino
+ 
+ > Bateries -> Motor Drive's VCC 
+
 
 
 
@@ -60,5 +64,6 @@ Hope this repository will be useful. Have fun!
  - Even on batteries, the Arduino will not provide enough power to the controller and the DC motors, since these will spin as much as the energy provided.
  - It's possible to do parallel powering as:
  > Batteries -> Arduino
+ 
  > Bateries -> Motor Drive's VCC 
 

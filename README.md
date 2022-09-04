@@ -3,8 +3,8 @@
 Espero que esse repositório seja útil, se divirta!
 ---
 # Robô de Sumô
-## O esquema eletrônico encontra-se anexado como "robot.png"
 > Robô em Arduino programado para lutar em uma arena redonda branca, com os limites pintados de preto. 
+## O esquema eletrônico encontra-se anexado como "robot.png"
 ## Componentes
  - 1x Arduino Uno
  - Jumpers
@@ -27,17 +27,17 @@ Espero que esse repositório seja útil, se divirta!
 ### Use a ponte H apenas para controlar a direção das rodas
  - Pois o Arduino, mesmo ligado em baterias potentes, não irá fornecer muita força para os motores ligados na ponte H. 
  - É possível ligar paralelamente: 
- > Batteries -> Arduino
+ > Baterias -> Arduino
  
- > Bateries -> Motor Drive's VCC 
+ > Baterias -> VCC da Ponte H 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hope this repository will be useful. Have fun!
 ---
 # Sumo Robot
-## The eletronic circuit is attached as "robot.png" 
 > Arduino Robot programmed to fight sumo in a white painted arena limited with black lines
+## The eletronic circuit is attached as "robot.png" 
 ## Components
  - 1x Arduino Uno
  - Jumpers

@@ -53,7 +53,7 @@
 - When pushing the oponent, if the robot perceives the arena limits, it'll retreat;
 - If the robot perceives the arena limits, it'll retreats, turn around, and go ahead searching the oponent.
 ## Tips
-### This repository instructs the programming and eletronic circtuis, and it is independent of its carcass and structure 
+### This repository instructs only the programming and eletronic circuits, and it is independent of its carcass and structure 
 - That said, it means you are free to use your imagination and build your own robot as you like! 3D printing would me awesome! 😎  
 
 ### Use the Motor Drive only to controll the direction of the wheels. 

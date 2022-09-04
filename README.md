@@ -31,10 +31,7 @@ Espero que esse repositório seja útil, se divirta!
  
  > Bateries -> Motor Drive's VCC 
 
-
-
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hope this repository will be useful. Have fun!
 ---

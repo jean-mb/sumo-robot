@@ -1,8 +1,5 @@
 > If you're not a Portuguese reader, you can skip to the bottom of the page and you'll find an English version of this document! Hope it helps!
 
-Espero que esse repositório seja útil, se divirta!
----
----
 # Robô de Sumô
 > Robô em Arduino programado para lutar em uma arena redonda branca, com os limites pintados de preto. 
 ## O esquema eletrônico encontra-se anexado como "robot.png"
@@ -34,8 +31,6 @@ Espero que esse repositório seja útil, se divirta!
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Hope this repository will be useful. Have fun!
----
 # Sumo Robot
 > Arduino Robot programmed to fight sumo in a white painted arena limited with black lines
 ## The eletronic circuit is attached as "robot.png" 

@@ -19,8 +19,8 @@
 - Se encontrar os limites da arena, irá recuar, virar para o lado, e seguir em frente.
 ## Dicas
 ### Esse repositório instrui apenas o circuito eletrônico e programação do robô e é independente da carcaça usada para suporte.
-Ou seja, use a imaginação para construir seu próprio chassi e robô! Considere a impressão 3D para um resultado incrivel! 😎
+- Ou seja, use a imaginação para construir seu próprio chassi e robô! Considere a impressão 3D para um resultado incrivel! 😎
 
 ### Use a ponte H apenas para controlar a direção das rodas
-Pois o Arduino, mesmo ligado em baterias potentes, não irá fornecer muita força para os motores ligados na ponte H. 
-É possível ligar paralelamente: Baterias -> Arduino / Baterias -> Ponte H
+ - Pois o Arduino, mesmo ligado em baterias potentes, não irá fornecer muita força para os motores ligados na ponte H. 
+ - É possível ligar paralelamente: Baterias -> Arduino / Baterias -> Ponte H

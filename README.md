@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/79486623/188323058-929a3105-28a5-42fd-8200-0c5f4f6ad097.png)
+
+
 > If you're not a Portuguese reader, you can skip to the bottom of the page and you'll find an English version of this document! Hope it helps!
 
 # Robô de Sumô

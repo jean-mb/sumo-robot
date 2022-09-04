@@ -138,7 +138,7 @@ void loop()
             sensor_dd = digitalRead(sensor_dianteiro_esquerda);
             sensor_te = digitalRead(sensor_traseiro_esquerda);
             sensor_td = digitalRead(sensor_traseiro_direita);
-            frente();//Movimenta para frente
+            frente();
           }
       }
     } else {

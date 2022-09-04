@@ -2,6 +2,7 @@
 
 # Robô de Sumô
 > Robô em Arduino programado para lutar em uma arena redonda branca, com os limites pintados de preto. 
+- Robô lutando: https://www.linkedin.com/posts/jeanmoschen_robotica-ugcPost-6947741716468617216-Df8P?utm_source=share&utm_medium=member_desktop
 ## O esquema eletrônico encontra-se anexado como "robot.png"
 ## Componentes
  - 1x Arduino Uno
@@ -33,6 +34,7 @@
 
 # Sumo Robot
 > Arduino Robot programmed to fight sumo in a white painted arena limited with black lines
+- The fight: https://www.linkedin.com/posts/jeanmoschen_robotica-ugcPost-6947741716468617216-Df8P?utm_source=share&utm_medium=member_desktop
 ## The eletronic circuit is attached as "robot.png" 
 ## Components
  - 1x Arduino Uno

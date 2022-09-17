@@ -26,7 +26,7 @@
 - Ou seja, use a imaginação para construir seu próprio chassi e robô! Considere a impressão 3D para um resultado incrivel! 😎
 
 ### Use a ponte H apenas para controlar a direção das rodas
- - Pois o Arduino, mesmo ligado em baterias potentes, não irá fornecer muita força para os motores ligados na ponte H. 
+ - Pois o Arduino, mesmo ligado em baterias potentes, não irá fornecer muita energia para os motores ligados na ponte H. 
  - É possível ligar paralelamente: 
  > Baterias -> Arduino
  
@@ -58,7 +58,7 @@
 
 ### Use the Motor Drive only to controll the direction of the wheels. 
  - Even on batteries, the Arduino will not provide enough power to the controller and the DC motors, since these will spin as much as the energy provided.
- - It's possible to do parallel powering as:
+ - It's possible to do parallel wiring as:
  > Batteries -> Arduino
  
  > Bateries -> Motor Drive's VCC 

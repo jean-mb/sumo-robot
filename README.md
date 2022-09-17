@@ -48,10 +48,10 @@
  - 2x Battery 3000MAH 20A/3.7V or similar
 ## Behavior
 > Following the rules, 3 seconds after its operator releases the START button, the robot will start to take action, looping:
-- Go foward, until it encounters its oponent or the arena limits (painted in red on the ground);
-- If it finds the oponent, it'll focus on it and try to push off the arena limits;
+- Go foward, until it encounters its oponent or the arena limits (painted in white on the ground);
+- If it finds the oponent, it'll focus on it and try to push it off the arena limits;
 - When pushing the oponent, if the robot perceives the arena limits, it'll retreat;
-- If the robot perceives the arena limits, it'll retreats, turn around, and go ahead searching the oponent.
+- If the robot perceives the arena limits, it'll retreats, turn around, and continue to search for the oponent.
 ## Tips
 ### This repository instructs only the programming and eletronic circuits, and it is independent of its carcass and structure 
 - That said, it means you are free to use your imagination and build your own robot as you like! 3D printing would me awesome! 😎  

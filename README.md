@@ -63,3 +63,7 @@
  
  > Bateries -> Motor Drive's VCC 
 
+## Contributors
+> | ![Jean Moschen](https://github.com/jean-mb.png?size=64) | ![Vinicius Aquino](https://github.com/viniaqf.png?size=64) |
+> | --- | --- | 
+> | [Jean Moschen](https://github.com/jean-mb) | [Vinicius Aquino](https://github.com/viniaqf) |

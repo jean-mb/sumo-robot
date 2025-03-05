@@ -2,6 +2,9 @@
 // Author: Jean Felipe Moschen Buss
 // E-mail: jeanfelipe0610@gmail.com
 
+// Author: Vinicius Gabriel Aquino Ferreira
+// E-mail: comercial.viniciusgabriel@gmail.com
+
 // Instruções: 
 // - Os comentários que seguem o código são apenas dicas de organização do circuito do robô
 // - Esse robô busca empurrar tudo que estiver à sua frente, EXCETO quando um de seus sensores infravermelho detectar no CHÃO a cor PRETA, pois esta é considerada o limite da arena.
